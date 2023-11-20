@@ -19,15 +19,16 @@
    ```bash
    pip install numpy matplotlib scikit-learn
 
-##Usage
+
+## Usage
 
 The script can be executed to perform regression analysis on the dataset. It will process the data, apply regression models, and visualize the results.
 
-##Contributing
+## Contributing
 
 While this project is part of an academic assignment, suggestions and improvements are welcome. Feel free to reach out for discussions or potential collaborations.
 
-##Contact
+## Contact
 
 Yusuf Erkam Köksal
 Email: yusuferkamkoksal@outlook.com
